@@ -1,0 +1,6 @@
+streamlit
+pandas
+google-api-python-client
+isodate
+youtube-search-python
+python-dotenv
